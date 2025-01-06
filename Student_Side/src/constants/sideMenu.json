@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Dashboard",
+        "focus": "dashboard",
+        "unfocus": "dashboardUnfocus",
+        "link": "dashboard"
+    },
+    {
+        "title": "Profile",
+        "focus": "profile",
+        "unfocus": "profileUnfocus",
+        "link": "profile"
+    },
+    {
+        "title": "Classroom",
+        "focus": "classroom",
+        "unfocus": "classroomUnfocus",
+        "link": "classroom"
+    },
+    {
+        "title": "Hostel",
+        "focus": "hostel",
+        "unfocus": "hostelUnfocus"
+    },
+    {
+        "title": "Placement",
+        "focus": "placement",
+        "unfocus": "placementUnfocus",
+        "link": "placement"
+    },
+    {
+        "title": "PYQ Paper",
+        "focus": "pyqpapers",
+        "unfocus": "pyqUnfocus",
+        "link": "pyqpapers"
+    },
+    {
+        "title": "Fees",
+        "focus": "fees",
+        "unfocus": "feesUnfocus",
+        "link": "fees"
+    },
+    {
+        "title": "Events",
+        "focus": "events",
+        "unfocus": "eventsUnfocus",
+        "link": "events"
+    },
+    {
+        "title": "Customer Care",
+        "focus": "care",
+        "unfocus": "careUnfocus"
+    },
+    {
+        "title": "Logout",
+        "focus": "logout",
+        "unfocus": "logoutUnfocus"
+    }
+]

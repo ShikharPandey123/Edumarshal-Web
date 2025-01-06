@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Student Photo",
+        "query": "studentPhoto"
+    },
+    {
+        "name": "Aadhaar Card",
+        "query": "aadharCard"
+    },
+    {
+        "name": "10th Marksheet",
+        "query": "tenthMarksheet"
+    },
+    {
+        "name": "12th Marksheet",
+        "query":"twelfthMarksheet"
+    },
+    {
+        "name": "Domicile Certificate",
+        "query": "domicileCertificate"
+    },
+    {
+        "name": "Allotment Letter",
+        "query":"seatAllotmentLetter"
+    },
+    {
+        "name": "Covid 19 certificate",
+        "query": "covidVaccinationCertificate"
+    },
+    {
+        "name": "TC or Migration Certificate",
+        "query": "migrationCertificate"
+    },
+    {
+        "name": "10th Pass Certificate",
+        "query":"tenthMarksheet"
+    },
+    {
+        "name": "Caste Certificate",
+        "query":"casteCertificate"
+    },
+    {
+        "name": "Income Certificate(TFW)",
+        "query":"incomeCertificate"
+    },
+    {
+        "name": "EWS Certificate(EWS)",
+        "query":"ewsCertificate"
+    },
+    {
+        "name": "Medical Fitness Certificate",
+        "query":"medicalCertificate"
+    },
+    {
+        "name": "Affidavit for the gap period After Qualifying exam",
+        "query":"gapCertificate"
+    }
+]

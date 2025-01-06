@@ -1,0 +1,32 @@
+[
+    {
+        "label": "Name",
+        "type": "text",
+        "placeholder": "Dhruval Gupta"
+    },
+    {
+        "label": "Date of Birth",
+        "type": "text",
+        "placeholder": "21/03/2004"
+    },
+    {
+        "label": "Course Name",
+        "type": "text",
+        "placeholder": "B.Tech"
+    },
+    {
+        "label": "Semester",
+        "type": "text",
+        "placeholder": "3rd (Odd)"
+    },
+    {
+        "label": "Branch",
+        "type": "text",
+        "placeholder": "AIML"
+    },
+    {
+        "label": "Section",
+        "type": "text",
+        "placeholder": "AIML1"
+    }
+]
