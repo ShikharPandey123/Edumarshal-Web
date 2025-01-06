@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Total Students",
+        "data": "120",
+        "src": "./icons/totalStudents.png"
+    },
+    {
+        "title": "Total Present",
+        "data": "90",
+        "src": "./icons/totalPresent.png"
+    },
+    {
+        "title": "Your Leaves",
+        "data": "04",
+        "src": "./icons/leaves.png"
+    }
+]

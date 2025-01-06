@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Dashboard",
+        "focus": "dashboard",
+        "unfocus": "dashboardUnfocus",
+        "link": "dashboard"
+    },
+    {
+        "title": "Profile",
+        "focus": "profile",
+        "unfocus": "profileUnfocus",
+        "link": "profile"
+    },
+    {
+        "title": "Classroom",
+        "focus": "Classroom",
+        "unfocus": "classroomUnfocus",
+        "link": "Classroom"
+    },
+
+    {
+        "title": "PYQ's Papers",
+        "focus": "pyq",
+        "unfocus": "pyqUnfocus"
+    },
+    {
+        "title": "Salary",
+        "focus": "fees",
+        "unfocus": "feesUnfocus",
+        "link": "Salary"
+    },
+    {
+        "title": "Events",
+        "focus": "events",
+        "unfocus": "eventsUnfocus",
+        "link": "events"
+    },
+    {
+        "title": "Setting",
+        "focus": "setting",
+        "unfocus": "settingUnfocus"
+    }
+]
