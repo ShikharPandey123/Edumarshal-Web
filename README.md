@@ -5,6 +5,9 @@
 ## 🌐 Deployment Links
 
 - **Student Portal:** [https://edumarshal-web.vercel.app/](https://edumarshal-web.vercel.app/)
+- Sample Credentials - UserName:22153048194
+-                      Password:pranjal123
+                       DOB: 19-09-2004
 - **Teacher Portal:** [https://edumarshal-web-theta.vercel.app/](https://edumarshal-web-theta.vercel.app/)
 
 ---
